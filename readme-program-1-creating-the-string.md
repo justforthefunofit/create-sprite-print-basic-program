@@ -52,4 +52,7 @@ The sprite data is stored as `DATA` statements. Instead of poking each byte, the
 ### ✅ How to use the code
 The full BASIC program is in a separate file: [sprite-printing.bas](./sprite-printing.bas)  
 
-Load it into your favorite editor (like CBM prg Studio) and run. Watch your sprites come to life, the Jef way! 🎉
+Load it into your favorite editor (like CBM prg Studio) and run. Watch your sprites come to life 🎉
+<p align="center">
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/8343995d-2006-4b2b-8c4a-2058a78cbca8" />
+</p>
