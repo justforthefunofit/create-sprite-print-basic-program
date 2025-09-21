@@ -12,6 +12,10 @@ Think of it as the foundation for sprite programming — simple, step-by-step, a
 </p>
 
 ---
+# Basic token overview
+[Learn more about BASIC tokens](https://www.c64-wiki.com/wiki/BASIC_token)
+
+---
 
 ## 1️⃣ Setup (Lines 100–130)
 We start by clearing the screen and preparing memory areas:  
