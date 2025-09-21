@@ -15,3 +15,28 @@ Instead, the conversion is done fully in **Commodore BASIC**.
 - These lines can be **saved to disk** as their own program.  
 
 Load that generated program back, run it, and *voilà* — your sprite is instantly created.
+
+---
+## Defining the example sprite
+I used the online sprite creator at https://petscii.krissz.hu/ to create a simple sprite as an example in the code.
+<p align="center">
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/9af347eb-5fc2-4b7a-8ae7-14ca1f95d443" />
+</p>
+
+## Use the sprite data
+From this online sprite creator I exported the definition in raw byte format and then converted it to basic lines. Replaced, by search and replace, 'BYTE' to 'data' en then copied it to CBM prg studie to add linenumers to it. 
+
+like this:
+<p align="center">
+<img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/a1b8f222-7a33-4957-a4e5-5cc55aa046c3" />
+<img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/8f33b768-3328-4d0e-9b33-10420eb44d45" />
+</p>
+
+## Examples:
+- A program showing how to create the string from normal sprite definition
+- A program showin how to create a basic program with the appropriate basic code lines
+- An example on hoe to concatenate two basic programs so the sprite definition can be used
+- 
+
+
+
