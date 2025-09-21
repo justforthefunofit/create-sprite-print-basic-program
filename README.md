@@ -33,10 +33,8 @@ like this:
 </p>
 
 ## Examples:
-- A program showing how to create the string from normal sprite definition
-- A program showin how to create a basic program with the appropriate basic code lines
-- An example on hoe to concatenate two basic programs so the sprite definition can be used
-- 
-
-
+- A program showing how to create the string from normal sprite definition  [readme](./readme-program-1-creating-the-string.md)  [code](./sprite-printing.bas)
+- A program showin how to create a basic program with the appropriate basic code lines [readme](./readme-program-2-sprite-line-demo.md)  [code](./sprite-line-demo.bas)
+- A example program generating actual basic lines to be used in your program [readme](./readme-program-3-generate-the-basic-program.md)  [code](./sprite-generator.bas)
+- An example on hoe to concatenate two basic programs so the sprite definition can be used (will follow, need some time to prepare 😁)
 
