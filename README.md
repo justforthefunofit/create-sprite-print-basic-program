@@ -1,2 +1,17 @@
-# create-sprite-print-basic-program
-Follow-up to my PRINT vs POKE repo. This time no Excel macro, but pure Commodore BASIC: the program converts sprite DATA into BASIC code lines and saves them as a program on disk. Load it back, run it, and your sprite is ready to go!
+# PRINT vs POKE – Sprite Builder in BASIC  
+
+This repository is a follow-up to my earlier project where I explained how to use the `PRINT` command instead of the usual `POKE` to manipulate memory on the Commodore 64.  
+That trick made it possible to define sprites faster by printing specially formed strings directly into screen memory.  
+
+---
+
+## What’s new here?  
+
+This time, no Excel macro needed!  
+Instead, the conversion is done fully in **Commodore BASIC**.  
+
+- The program takes a normal sprite definition written with `DATA` statements.  
+- It automatically generates a set of BASIC lines.  
+- These lines can be **saved to disk** as their own program.  
+
+Load that generated program back, run it, and *voilà* — your sprite is instantly created.
