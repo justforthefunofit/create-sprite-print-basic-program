@@ -16,8 +16,15 @@ Instead, the conversion is done fully in **Commodore BASIC**.
 
 Load that generated program back, run it, and *voilà* — your sprite is instantly created.
 
+## Examples:
+- Program showing how to create the string from normal sprite definition  [readme](./readme-program-1-creating-the-string.md)  [Code](./sprite-printing.bas)
+- Proof of concept to demonstrate creating of a basic program line [readme](./readme-save-memory-block.md) [Code](./save-memory-block.bas)
+- Program showin how to create a basic program with the appropriate basic code lines [readme](./readme-program-2-sprite-line-demo.md)  [Code](./sprite-line-demo.bas)
+- Example program generating actual basic lines to be used in your program [readme](./readme-program-3-generate-the-basic-program.md)  [Code](./sprite-generator.bas)
+- Example on hoe to concatenate two basic programs so the sprite definition can be used (next on my list to create the example)
+
 ---
-## Defining the example sprite
+## Defining the example sprite (used in the example code)
 I used the online sprite creator at https://petscii.krissz.hu/ to create a simple sprite as an example in the code.
 <p align="center">
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/9af347eb-5fc2-4b7a-8ae7-14ca1f95d443" />
@@ -32,10 +39,5 @@ like this:
 <img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/8f33b768-3328-4d0e-9b33-10420eb44d45" />
 </p>
 
-## Examples:
-- Program showing how to create the string from normal sprite definition  [readme](./readme-program-1-creating-the-string.md)  [Code](./sprite-printing.bas)
-- Proof of concept to demonstrate creating of a basic program line [readme](./readme-save-memory-block.md) [Code](./save-memory-block.bas)
-- Program showin how to create a basic program with the appropriate basic code lines [readme](./readme-program-2-sprite-line-demo.md)  [Code](./sprite-line-demo.bas)
-- Example program generating actual basic lines to be used in your program [readme](./readme-program-3-generate-the-basic-program.md)  [Code](./sprite-generator.bas)
-- Example on hoe to concatenate two basic programs so the sprite definition can be used (next on my list to create the example)
+
 
