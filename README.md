@@ -21,7 +21,7 @@ Load that generated program back, run it, and *voilà* — your sprite is instan
 - Proof of concept to demonstrate creating of a basic program line [readme](./readme-save-memory-block.md) [Code](./save-memory-block.bas)
 - Program showin how to create a basic program with the appropriate basic code lines [readme](./readme-program-2-sprite-line-demo.md)  [Code](./sprite-line-demo.bas)
 - Example program generating actual basic lines to be used in your program [readme](./readme-program-3-generate-the-basic-program.md)  [Code](./sprite-generator.bas)
-- Example on hoe to concatenate two basic programs so the sprite definition can be used (next on my list to create the example)
+- Example on hoe to concatenate two basic programs so the sprite definition can be used [(readme)](./combining-basic-files.md)
 
 ---
 ## Defining the example sprite (used in the example code)
