@@ -3,6 +3,9 @@
 This repository is a follow-up to my earlier project where I explained how to use the `PRINT` command instead of the usual `POKE` to manipulate memory on the Commodore 64.  
 That trick made it possible to define sprites faster by printing specially formed strings directly into screen memory.  
 
+See my earlier created video on this here:  
+https://youtu.be/7vJO_p5X_ak?si=R3KAE_U25Xbnh31i
+
 ---
 
 ## What’s new here?  
