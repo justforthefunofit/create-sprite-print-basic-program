@@ -34,7 +34,7 @@ I used the online sprite creator at https://petscii.krissz.hu/ to create a simpl
 </p>
 
 ## Use the sprite data
-From this online sprite creator I exported the definition in raw byte format and then converted it to basic lines. Replaced, by search and replace, 'BYTE' to 'data' en then copied it to CBM prg studie to add linenumers to it. 
+From this online sprite creator I exported the definition in raw byte format and then converted it to basic lines. Replaced, by search and replace, 'BYTE' to 'data' en then copied it to CBM prg studio to add linenumers to it. 
 
 like this:
 <p align="center">
